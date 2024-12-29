@@ -6,6 +6,3 @@ dist/
 
 # Lock files (can be regenerated)
 package-lock.json
-
-# webpack config
-webpack.config.js
